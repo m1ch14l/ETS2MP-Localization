@@ -31,10 +31,10 @@ $_lang["why.create.account"] = "Waarom een account aanmaken?<br />Je account wor
 $_lang["website.title"] = "ETS2MP - Virtuele truckers wereld - multiplayer mod voor Euro Truck Simulator 2, spel door SCS Software";
 $_lang["cookies.warning"] = "Deze website gebruikt <a href=\"http://en.wikipedia.org/wiki/HTTP_cookie\">cookies</a>. Door deze website te gebruiken, gaat u akkoord met het gebruik van cookies.";
 $_lang["forum"] = "Forum";
-$_lang["You cannot create new account while you are logged."] = "You cannot create new account while you are logged.";
-$_lang["You've been successfully registered."] = "You've been successfully registered.";
-$_lang["Unknown error"] = "Unknown error";
-$_lang["Username, mail or steamid is already taken."] = "Username, mail or steamid is already taken.";
-$_lang["E-Mail"] = "E-Mail";
-$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press";
-$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "To register you have to login to your steam account. Press button bellow to redirect to steam authentication website.";
+$_lang["You cannot create new account while you are logged."] = "Je kan geen nieuw account aanmaken terwijl je ingelogd bent.";
+$_lang["You've been successfully registered."] = "Je bent succesvol geregistreerd.";
+$_lang["Unknown error"] = "Onbekende fout.";
+$_lang["Username, mail or steamid is already taken."] = "Gebruikersnaam, email of steamid is al in gebruik.";
+$_lang["E-Mail"] = "Email";
+$_lang["To create ETS2MP account you must have ETS2 assigned to your steam account. If you have it in your steam library try to check if your profile is public. If it's private make it public and press"] = "Om een ETS2MP account te maken moet je ETS2 bezitten op Steam. Als je het spel al bezit, controleer of je account publiekelijk is. Als het op privé ingesteld staat, maak het dan publiek en klik op";
+$_lang["To register you have to login to your steam account. Press button bellow to redirect to steam authentication website."] = "Om te registreren moet je ingelogd zijn op je Steam account. Klik op onderstaande knop om naar de Steam authorisatie website te gaan.";
